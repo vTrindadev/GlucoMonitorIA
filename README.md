@@ -1,18 +1,20 @@
 # GlucoMonitorIA
 
 ### 1. Identificação do Grupo
-* **Instituição:** Centro Universitário da Fundação Santo André (FSA) / UNICID
-* **Curso:** [Inserir Nome do Curso]
+* **Instituição:** FACULDADE ENGENHEIRO SALVADOR ARENA
+* **Curso:** ENGENHARIA DE CONTROLE E AUTOMAÇÃO
 * **Grupo:** [Inserir Nome ou Número do Grupo]
-* **Integrantes:** * [Nome Completo] - RA: [000000]
-    * [Nome Completo] - RA: [000000]
-    * [Nome Completo] - RA: [000000]
+* **Integrantes:**
+    * FELIPE SILVA BERTANI - RA: 062230043
+    * MAYCON ALELUIA - RA: [000000]
+    * RAFAEL CIRELLI - RA: [000000]
+    * VICTOR CÉSAR TRINDADE PEREIRA - RA: 062220012
 
 ---
 
 ### 2. Área Problema Selecionada
 Selecione a trilha tecnológica do projeto (marque com um [x]):
-* [ ] **Saúde 4.0:** Robótica Assistiva (Controladores Inteligentes/Fuzzy)
+* [X] **Saúde 4.0:** Robótica Assistiva (Controladores Inteligentes/Fuzzy)
 * [ ] **Smart Grid:** Eficiência Energética e Descarbonização
 * [ ] **Agtech:** Automação de Precisão e Visão Computacional
 * [ ] **Logística Autônoma:** Coordenação de AGVs e Otimização de Rotas
