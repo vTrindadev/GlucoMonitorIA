@@ -8,7 +8,7 @@
     * FELIPE SILVA BERTANI - RA: 062230043
     * MAYCON ALELUIA - RA: 062220038
     * RAFAEL CIRELLI - RA: 062220022
-    * VICTOR CÉSAR TRINDADE PEREIRA - RA: 062220012
+    * VICTOR CÉSAR TRINDADE PEREIRA - RA: 062220012 
 
 ---
 
@@ -31,10 +31,10 @@ Nesta seção, descrevemos o cenário de atuação e a modelagem do agente intel
 #### Modelagem PEAS (Agente Inteligente)
 | Componente | Descrição |
 | :--- | :--- |
-| **Performance (P)** | Critérios de sucesso (ex: precisão de acerto, kWh economizados). |
-| **Ambiente (E)** | Onde o agente opera (ex: armazém simulado, rede elétrica). |
-| **Atuadores (A)** | Como o agente age (ex: acionamento de motores, válvulas). |
-| **Sensores (S) ** | Como o agente percebe o ambiente (ex: câmeras, sensores de carga). |
+| **Performance (P)** | Alta acurácia na estimativa da glicose (MARD < 15%, ideal entre 5–10%); predições majoritariamente nas zonas A e B da Clarke Error Grid; baixa taxa de falsos alarmes (hipo/hiperglicemia); eficiência energética do dispositivo; estabilidade em diferentes condições fisiológicas e ambientais. |
+| **Ambiente (E)** | Corpo humano em uso cotidiano (região retroauricular/mastóide), sujeito a variações fisiológicas (temperatura, hidratação, fluxo sanguíneo) e interferências externas (movimento, pressão, suor); integração com ecossistema de Internet das Coisas Médicas (IoMT) via smartphone e nuvem. |
+| **Atuadores (A)** | Emissão de sinais de excitação (corrente alternada de baixa intensidade ou luz infravermelha); transmissão de dados via Bluetooth Low Energy (BLE); interface com aplicativo móvel para exibição de dados e geração de alertas visuais, sonoros e vibratórios ao usuário. |
+| **Sensores (S)** | Sensor principal (bioimpedância ou óptico NIR/MIR) para captação indireta da glicose; sensores auxiliares de temperatura (pele e ambiente) e pressão (FSR) para compensação de ruído; uso de múltiplos canais para fusão de dados e maior robustez do modelo. |
 
 ---
 
