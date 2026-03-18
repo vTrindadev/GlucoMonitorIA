@@ -3,11 +3,11 @@
 ### 1. Identificação do Grupo
 * **Instituição:** FACULDADE ENGENHEIRO SALVADOR ARENA
 * **Curso:** ENGENHARIA DE CONTROLE E AUTOMAÇÃO
-* **Grupo:** [Inserir Nome ou Número do Grupo]
+* **Grupo:** GRUPO B
 * **Integrantes:**
     * FELIPE SILVA BERTANI - RA: 062230043
-    * MAYCON ALELUIA - RA: [000000]
-    * RAFAEL CIRELLI - RA: [000000]
+    * MAYCON ALELUIA - RA: 0622200
+    * RAFAEL CIRELLI - RA: 062220022
     * VICTOR CÉSAR TRINDADE PEREIRA - RA: 062220012
 
 ---
