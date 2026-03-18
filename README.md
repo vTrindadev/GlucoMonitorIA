@@ -8,7 +8,7 @@
     * FELIPE SILVA BERTANI - RA: 062230043
     * MAYCON ALELUIA - RA: 062220038
     * RAFAEL CIRELLI - RA: 062220022
-    * VICTOR CÉSAR TRINDADE PEREIRA - RA: [062220012]
+    * VICTOR CÉSAR TRINDADE PEREIRA - RA: 062220012
 
 ---
 
@@ -24,9 +24,9 @@ Selecione a trilha tecnológica do projeto (marque com um [x]):
 ### 3. Diagnóstico e Definição do Agente
 Nesta seção, descrevemos o cenário de atuação e a modelagem do agente inteligente.
 
-* **Contexto:** [Descrever o setor, ex: Indústria 4.0 ou Gestão de Energia].
-* **Problema:** [Explicar o gargalo ou falha que a IA ajudará a resolver].
-* **Impacto:** [Mencionar o ganho esperado, ex: redução de custos ou aumento de segurança].
+* **Contexto:** O sistema está inserido no setor de Saúde Digital (Digital Health) e Dispositivos Médicos Vestíveis, com forte interseção com áreas como Internet das Coisas Médicas (IoMT) e Inteligência Artificial aplicada à medicina. Esse contexto envolve o desenvolvimento de tecnologias para monitoramento contínuo de pacientes, com foco em doenças crônicas como o Diabetes Mellitus. A tendência atual do setor é migrar de métodos invasivos para soluções não invasivas, mais confortáveis e integradas ao cotidiano do usuário.
+* **Problema:** O principal gargalo está na ausência de um método confiável, contínuo e totalmente não invasivo para monitoramento da glicose. As soluções atuais, como os sensores subcutâneos (CGMs), ainda apresentam limitações relacionadas ao desconforto, necessidade de substituição periódica e risco de irritação ou infecção. Além disso, medições não invasivas enfrentam desafios técnicos significativos, pois os sinais fisiológicos captados (elétricos ou ópticos) são extremamente sensíveis a ruídos causados por variáveis como temperatura, suor, pressão e movimento.
+* **Impacto:** A aplicação de técnicas avançadas de aprendizado de máquina pode transformar esse cenário ao permitir a fusão inteligente de múltiplos sensores e a modelagem de relações não lineares complexas. Como resultado, espera-se alcançar um monitoramento glicêmico contínuo, preciso e totalmente não invasivo, reduzindo significativamente o desconforto do paciente e aumentando a adesão ao tratamento. Isso pode levar à diminuição de complicações associadas ao controle inadequado da glicemia, redução de custos com hospitalizações e melhoria geral na qualidade de vida de pessoas com diabetes. Além disso, abre caminho para sistemas mais avançados.
 
 #### Modelagem PEAS (Agente Inteligente)
 | Componente | Descrição |
