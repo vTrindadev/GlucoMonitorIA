@@ -41,9 +41,12 @@ Nesta seção, descrevemos o cenário de atuação e a modelagem do agente intel
 ### 4. Arquitetura de Dados e IA
 Definição das fontes de dados e da inteligência por trás da solução.
 
-* **Origem dos Dados:** [Link para dataset no Kaggle/UCI ou descrição da fonte].
-* **Lógica de IA:** [Técnica utilizada: ex: Redes Neurais, Lógica Fuzzy, Busca A*].
-* **Justificativa:** Por que essa técnica é ideal para este problema específico?
+* **Origem dos Dados:** https://www.kaggle.com/datasets/imtkaggleteam/diabetes  
+Dataset público contendo variáveis clínicas como glicose, insulina, IMC, idade e pressão arterial, amplamente utilizado em modelos preditivos de diabetes.
+
+* **Lógica de IA:** Redes Neurais Artificiais (MLP, LSTM e GRU), com possível uso de fusão de sensores e técnicas de regressão para estimativa contínua da glicose.
+
+* **Justificativa:** O problema envolve relações altamente não lineares entre sinais fisiológicos e níveis de glicose, além de forte presença de ruídos (movimento, temperatura, pressão). Redes Neurais são ideais porque conseguem aprender padrões complexos, lidar com múltiplas variáveis simultaneamente e capturar dependências temporais (no caso de LSTM/GRU), o que é essencial para modelar o comportamento glicêmico e o “lag” fisiológico.
 
 ---
 
