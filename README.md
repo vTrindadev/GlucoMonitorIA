@@ -72,7 +72,6 @@ A separação entre decisão técnica e interpretação garante maior confiabili
 
 * `/data`: Dados brutos e tratados  
 * `/notebooks`: Análise exploratória e testes  
-* `/scripts`: Lógica do agente inteligente e ETL  
 * `requirements.txt`: Dependências do projeto  
 * `README.md`: Documentação  
 
