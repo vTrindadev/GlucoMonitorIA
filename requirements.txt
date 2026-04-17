@@ -1,12 +1,12 @@
 # --- Manipulação de Dados ---
-pandas
-numpy
+pandas>=2.0.0
+numpy>=1.24.0
 
 # --- Visualização ---
-matplotlib
+matplotlib>=3.7.0
 
 # --- IA Generativa (Gemini) ---
-google-generativeai
+google-generativeai>=0.3.0
 
 # --- Ambiente Notebook ---
-ipykernel
+ipykernel>=6.0.0
