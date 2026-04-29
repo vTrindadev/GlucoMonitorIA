@@ -83,3 +83,28 @@ A separação entre decisão técnica e interpretação garante maior confiabili
 2. Instale as dependências:
    ```bash
    pip install -r requirements.txt
+
+### 8
+## Abordagem escolhida — Rede Neural Artificial (RNA)
+
+A abordagem escolhida para a Etapa 3 foi a **Rede Neural Artificial (RNA)**, utilizando o modelo `MLPRegressor`.
+
+Essa escolha foi feita porque o objetivo do GlucoMonitorIA é prever a próxima glicose do usuário com base em dados históricos e variáveis do monitoramento. A RNA é adequada para esse tipo de problema, pois consegue aprender padrões nos dados e estimar valores futuros.
+
+No projeto, a RNA não substitui o Sistema Especialista. Ela apenas prevê a glicose futura. Depois disso, o Sistema Especialista classifica o risco glicêmico e o Gemini atua como camada interpretativa, explicando o resultado em linguagem simples.
+
+## Desempenho do Modelo
+
+Foi gerado o gráfico da **Curva de Loss da Rede Neural**, que mostra a redução do erro durante o treinamento.
+
+Adicione aqui o print do gráfico:
+
+![Curva de Loss da Rede Neural](caminho/para/o/print.png)
+
+Resultados obtidos com validação cruzada K-Fold:
+
+- MAE médio: 8.85
+- RMSE médio: 11.75
+- R² médio: 0.90
+
+Esses resultados indicam que o modelo apresentou boa capacidade de previsão em dados simulados.
