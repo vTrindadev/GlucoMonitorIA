@@ -47,7 +47,7 @@ A utilização de um agente inteligente permite transformar dados brutos em info
 ### 4. Arquitetura de Dados e IA
 
 * **Origem dos Dados:**  
-https://www.kaggle.com/datasets/imtkaggleteam/diabetes  
+
 
 * **Lógica de IA:**  
 O sistema utiliza uma abordagem híbrida:
