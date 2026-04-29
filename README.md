@@ -84,8 +84,7 @@ A separação entre decisão técnica e interpretação garante maior confiabili
    ```bash
    pip install -r requirements.txt
 
-### 8
-## Abordagem escolhida — Rede Neural Artificial (RNA)
+### 8. Abordagem escolhida — Rede Neural Artificial (RNA)
 
 A abordagem escolhida para a Etapa 3 foi a **Rede Neural Artificial (RNA)**, utilizando o modelo `MLPRegressor`.
 
