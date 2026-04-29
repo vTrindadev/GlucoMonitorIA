@@ -100,7 +100,7 @@ Foi gerado o gráfico da **Curva de Loss da Rede Neural**, que mostra a reduçã
 
 Adicione aqui o print do gráfico:
 
-![Curva de Loss da Rede Neural](caminho/para/o/print.png)
+<img width="859" height="472" alt="image" src="https://github.com/user-attachments/assets/4d0ad3ea-bc24-4cfd-a02e-71dc01df70c6" />
 
 Resultados obtidos com validação cruzada K-Fold:
 
