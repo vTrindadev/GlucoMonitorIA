@@ -378,6 +378,7 @@ Os resultados demonstraram comportamento estável e boa capacidade de generaliza
 
 - Gemini
 - ChatGPT
+- Claude
 
 ## Aplicação da IA
 
