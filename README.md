@@ -24,7 +24,7 @@
 
 # 📌 1. Identificação do Grupo
 
-- **Instituição:** Faculdade Engenheiro Salvador Arena (FSA)
+- **Instituição:** Faculdade Engenheiro Salvador Arena (FESA)
 - **Curso:** Engenharia de Controle e Automação
 - **Grupo:** Grupo B
 
@@ -196,19 +196,22 @@ A arquitetura permite integração futura com:
 
 ## Extração
 
-- Importação de datasets
-- Inserção manual de dados
+- Coleta de leituras glicêmicas
+- Registro de horários e eventos fisiológicos
+- Entrada manual de dados para monitoramento
 
 ## Transformação
 
 - Limpeza de dados
 - Tratamento de inconsistências
 - Cálculo de variação glicêmica (`diff`)
-- Estruturação dos dados
+- Estruturação dos dados para aprendizado da RNA
 
 ## Carga
 
-- Preparação para treinamento e inferência da IA
+- Preparação dos dados para treinamento
+- Normalização das variáveis
+- Envio das entradas para inferência da IA
 
 ---
 
@@ -218,13 +221,13 @@ A arquitetura permite integração futura com:
 
 O gráfico abaixo demonstra a redução do erro da RNA durante o treinamento.
 
-<img width="859" height="472" alt="curva_loss" src="INSERIR_LINK_DA_IMAGEM">
+<img width="868" height="472" alt="image" src="https://github.com/user-attachments/assets/db21bb84-d475-41f2-ac13-1a7948eeea8e" />
 
 ---
 
 ## 🤖 Pipeline Final Integrado
 
-<img width="900" alt="pipeline_final" src="INSERIR_LINK_DA_SEGUNDA_IMAGEM">
+<img width="1795" height="730" alt="image" src="https://github.com/user-attachments/assets/7c8515fa-301e-4d8a-9589-4a60cc43302e" />
 
 O pipeline executa automaticamente:
 
