@@ -14,7 +14,7 @@
 **[Assista ao Pitch e Demonstração da Solução](INSERIR_LINK_DO_VIDEO)**
 
 ### 🚀 Link do Protótipo
-**[Abrir Protótipo no Google AI Studio](INSERIR_LINK_DO_PROTOTIPO)**
+**[Abrir Protótipo no Google AI Studio](https://ai.studio/apps/1bbbc2b7-9f78-41e0-82ff-52f7af9cc5f5?fullscreenApplet=true)**
 
 ---
 
