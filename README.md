@@ -24,7 +24,7 @@
 
 # 📌 1. Identificação do Grupo
 
-* **Instituição:** Faculdade Engenheiro Salvador Arena (FSA)
+* **Instituição:** Faculdade Engenheiro Salvador Arena (FESA)
 * **Curso:** Engenharia de Controle e Automação
 * **Grupo:** Grupo B
 
