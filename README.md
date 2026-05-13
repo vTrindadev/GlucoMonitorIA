@@ -151,7 +151,7 @@ A arquitetura permite integração futura com:
 
 # 🔄 7. Pipeline ETL
 
-<img width="3500" height="500" alt="mermaid-diagram (2)" src="https://github.com/user-attachments/assets/ef96b23d-3e78-47c1-a915-8f50cab07dee" />
+<img width="3000" height="500" alt="mermaid-diagram (2)" src="https://github.com/user-attachments/assets/ef96b23d-3e78-47c1-a915-8f50cab07dee" />
 
 ---
 
