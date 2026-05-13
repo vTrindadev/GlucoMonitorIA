@@ -59,13 +59,19 @@ A solução possui potencial aplicação futura em dispositivos não invasivos d
 
 ## Problema
 
-Pacientes e sistemas de monitoramento enfrentam dificuldades na interpretação de dados glicêmicos ao longo do tempo, principalmente devido às rápidas variações causadas por alimentação, atividade física, repouso e outros eventos fisiológicos.
+Pacientes e sistemas de monitoramento glicêmico enfrentam dificuldades na análise e interpretação contínua dos níveis de glicose ao longo do tempo. Isso ocorre porque a glicemia sofre variações rápidas e constantes influenciadas por diversos fatores fisiológicos e comportamentais, como alimentação, prática de atividades físicas, estresse, repouso, uso de medicamentos e rotina diária do paciente.
 
-Essas oscilações podem gerar riscos de:
+Essas oscilações dificultam a identificação precisa de padrões glicêmicos e tornam o acompanhamento mais complexo, principalmente em situações onde a tomada de decisão precisa ocorrer de forma rápida e confiável. Além disso, muitos sistemas atuais apenas exibem os valores coletados, sem oferecer uma interpretação inteligente ou previsões preventivas que auxiliem o usuário.
 
-- Hipoglicemia
-- Hiperglicemia
-- Decisões inadequadas no acompanhamento glicêmico
+Como consequência, o paciente pode ficar exposto a riscos significativos, tais como:
+
+- Episódios de hipoglicemia, causados pela queda excessiva da glicose;
+- Episódios de hiperglicemia, decorrentes do aumento elevado dos níveis glicêmicos;
+- Falhas na interpretação dos dados monitorados;
+- Decisões inadequadas no acompanhamento e controle glicêmico;
+- Dificuldade na prevenção antecipada de situações críticas.
+
+Dessa forma, torna-se necessária a utilização de soluções inteligentes capazes de monitorar, analisar e prever o comportamento glicêmico de maneira mais precisa, permitindo maior segurança, apoio à tomada de decisão e melhoria na qualidade de vida do paciente.
 
 ---
 
