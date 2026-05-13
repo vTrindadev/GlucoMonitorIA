@@ -114,7 +114,7 @@ O **GlucoMonitorIA** utiliza uma arquitetura híbrida dividida em três camadas 
 
 # 🏗️ Arquitetura do Sistema
 
-<img width="553" height="1389" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/3a17b44e-9744-4d4c-aa9f-07ae3b0b6e57" />
+<img width="250" height="500" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/3a17b44e-9744-4d4c-aa9f-07ae3b0b6e57" />
 
 ---
 
