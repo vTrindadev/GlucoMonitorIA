@@ -212,7 +212,6 @@ Dessa forma, o modelo pode ser considerado robusto e adequado para prever tendê
 📦 GlucoMonitorIA
  ┣ 📂 assets
  ┃ ┗ 📂 images
- ┣ 📂 data
  ┣ 📂 notebooks
  ┣ 📂 scripts
  ┣ 📄 requirements.txt
