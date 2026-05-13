@@ -12,7 +12,7 @@
 
 # 🎥 Demonstração do Projeto
 
-**[Assista ao Pitch e Demonstração da Solução](INSERIR_LINK_DO_VIDEO)**
+**[Assista ao Pitch e Demonstração da Solução](https://youtu.be/O3UhvLzB4JM?si=Ws_bcqc0UH3HcbHy)**
 
 ---
 
