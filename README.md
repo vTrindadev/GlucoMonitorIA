@@ -1,4 +1,3 @@
-<img width="1636" height="2284" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/d198f82c-c4a7-4388-b731-1ccbb8a7ba36" />
 # 🩺 GlucoMonitorIA
 
 ### Sistema Inteligente de Monitoramento e Previsão Glicêmica com IA Híbrida
