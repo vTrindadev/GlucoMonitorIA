@@ -1,3 +1,4 @@
+<img width="1636" height="2284" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/d198f82c-c4a7-4388-b731-1ccbb8a7ba36" />
 # 🩺 GlucoMonitorIA
 
 ### Sistema Inteligente de Monitoramento e Previsão Glicêmica com IA Híbrida
@@ -108,8 +109,7 @@ Além disso, o projeto demonstra a viabilidade da integração entre diferentes 
 
 O **GlucoMonitorIA** utiliza uma arquitetura híbrida dividida em três camadas principais.
 
-<img width="502" height="597" alt="image" src="https://github.com/user-attachments/assets/24aed01d-0e61-4e7d-8948-af5835aac01a" />
-
+<img width="1636" height="2284" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/84fbc777-8e8f-4a3f-b7c0-1fc4bc7a4865" />
 
 ---
 
