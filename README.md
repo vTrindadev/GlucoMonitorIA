@@ -9,19 +9,6 @@
 ![Status](https://img.shields.io/badge/Status-Prot%C3%B3tipo%20Funcional-blue?style=for-the-badge)
 
 ---
-
-# 🎥 Demonstração do Projeto
-
-**[Assista ao Pitch e Demonstração da Solução](https://youtu.be/O3UhvLzB4JM?si=Ws_bcqc0UH3HcbHy)**
-
----
-
-# 🚀 Link do Protótipo
-
-**[Abrir Protótipo no Google AI Studio](https://ai.studio/apps/1bbbc2b7-9f78-41e0-82ff-52f7af9cc5f5?fullscreenApplet=true)**
-
----
-
 # 📌 1. Identificação do Grupo
 
 - **Instituição:** Faculdade Engenheiro Salvador Arena (FESA)
@@ -36,6 +23,18 @@
 | Maycon Alves | 062220038 |
 | Rafael Cirelli | 062220022 |
 | Victor César Trindade Pereira | 062220012 |
+
+---
+
+# 🎥 Demonstração do Projeto
+
+**[Assista ao Pitch e Demonstração da Solução](https://youtu.be/O3UhvLzB4JM?si=Ws_bcqc0UH3HcbHy)**
+
+---
+
+# 🚀 Link do Protótipo
+
+**[Abrir Protótipo no Google AI Studio](https://ai.studio/apps/1bbbc2b7-9f78-41e0-82ff-52f7af9cc5f5?fullscreenApplet=true)**
 
 ---
 
