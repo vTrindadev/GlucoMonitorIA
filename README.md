@@ -178,7 +178,8 @@ Dessa forma, o projeto não se limita apenas a uma simulação acadêmica, mas d
 
 # 🔄 7. Pipeline ETL
 
-<img width="3000" height="450" alt="mermaid-diagram (2)" src="https://github.com/user-attachments/assets/ef96b23d-3e78-47c1-a915-8f50cab07dee" />
+<img width="1857" height="847" alt="image" src="https://github.com/user-attachments/assets/77d2d55d-4e20-4ef0-9fde-216e5238eed2" />
+
 
 ---
 
