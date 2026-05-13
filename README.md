@@ -114,23 +114,7 @@ O **GlucoMonitorIA** utiliza uma arquitetura híbrida dividida em três camadas 
 
 # 🏗️ Arquitetura do Sistema
 
-```text
-Entrada de Dados
-        ↓
-Pré-processamento (ETL)
-        ↓
-Rede Neural Artificial
-        ↓
-Previsão da Próxima Glicose
-        ↓
-Sistema Especialista
-(Classificação de Risco)
-        ↓
-Gemini API
-(Interpretação Inteligente)
-        ↓
-Alertas e Recomendações
-```
+<img width="553" height="1389" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/3a17b44e-9744-4d4c-aa9f-07ae3b0b6e57" />
 
 ---
 
