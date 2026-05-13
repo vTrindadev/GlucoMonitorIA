@@ -123,32 +123,56 @@ O **GlucoMonitorIA** utiliza uma arquitetura híbrida dividida em três camadas 
 
 # 🤖 6. Justificativa da Abordagem
 
-A abordagem escolhida para o núcleo inteligente do projeto foi a utilização de **Redes Neurais Artificiais (RNA)**.
+A abordagem escolhida para o núcleo inteligente do projeto foi a utilização de **Redes Neurais Artificiais (RNA)**, devido à sua capacidade de aprender padrões complexos e realizar previsões com base em dados históricos.
+
+As RNAs são amplamente utilizadas em aplicações de Inteligência Artificial voltadas à saúde, principalmente em cenários onde existem grandes variações de comportamento e múltiplos fatores influenciando os resultados. No contexto do monitoramento glicêmico, essa característica se torna extremamente importante, pois os níveis de glicose podem variar rapidamente ao longo do dia.
+
+---
 
 ## 🔹 Natureza do Problema
 
-A previsão glicêmica envolve padrões não lineares e múltiplas variáveis fisiológicas, tornando métodos tradicionais menos eficientes para capturar tendências complexas.
+A previsão glicêmica é considerada um problema complexo, pois envolve relações não lineares entre diferentes variáveis fisiológicas e comportamentais.
+
+Fatores como alimentação, atividade física, repouso, horários, metabolismo e oscilações naturais do organismo influenciam diretamente os níveis de glicose do paciente. Dessa forma, métodos tradicionais de análise muitas vezes apresentam limitações na identificação de padrões mais complexos.
+
+A Rede Neural Artificial foi escolhida justamente por conseguir analisar essas relações de maneira mais eficiente, aprendendo tendências glicêmicas a partir dos dados históricos do usuário.
 
 ---
 
 ## 🔹 Capacidade de Generalização
 
-A RNA possui alta capacidade de aprendizado com dados históricos, identificando relações complexas entre:
+Uma das principais vantagens da RNA é sua capacidade de aprendizado e generalização.
 
-- Variação glicêmica
-- Eventos fisiológicos
-- Tendências temporais
+Durante o treinamento, o modelo aprende padrões presentes nos dados e consegue utilizar esse conhecimento para realizar previsões futuras, mesmo em situações que não estavam exatamente presentes na base de treinamento.
+
+No projeto, a RNA foi utilizada para identificar relações entre:
+
+- Variações glicêmicas;
+- Tendências temporais;
+- Comportamento histórico da glicose;
+- Eventos fisiológicos registrados;
+- Alterações recorrentes nos dados monitorados.
+
+Essa capacidade permite que o sistema antecipe possíveis alterações glicêmicas e ofereça suporte preventivo ao monitoramento inteligente.
 
 ---
 
-## 🔹 Escalabilidade
+## 🔹 Escalabilidade e Expansão Futura
 
-A arquitetura permite integração futura com:
+Outro fator importante para a escolha da RNA foi a possibilidade de expansão futura da solução.
 
-- Sensores reais
-- Dispositivos IoT
-- Aplicações mobile
-- Monitoramento em tempo real
+A arquitetura desenvolvida permite integração com diferentes tecnologias e aplicações da área de Saúde 4.0, tornando o sistema escalável para cenários reais de monitoramento contínuo.
+
+Entre as possibilidades futuras estão:
+
+- Integração com sensores glicêmicos reais;
+- Comunicação com dispositivos IoT;
+- Aplicações mobile para acompanhamento remoto;
+- Monitoramento em tempo real;
+- Geração automática de alertas inteligentes;
+- Integração com plataformas clínicas e dashboards analíticos.
+
+Dessa forma, o projeto não se limita apenas a uma simulação acadêmica, mas demonstra potencial para evolução em aplicações reais de apoio ao monitoramento glicêmico inteligente.
 
 ---
 
