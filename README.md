@@ -183,17 +183,7 @@ O pipeline executa automaticamente:
 
 Para validação do modelo, foi aplicada a técnica de validação cruzada K-Fold com k=5, permitindo avaliar a estabilidade e a capacidade de generalização da Rede Neural Artificial em diferentes divisões dos dados.
 
-## Resultados médios obtidos:
-
-- **MAE médio:** 10.36 → representa o erro médio absoluto entre o valor previsto e o valor real da glicose.
-- **RMSE médio:** 12.57 → mede o erro quadrático médio, penalizando erros maiores.
-- **R² médio:** 0.89 → indica que o modelo conseguiu explicar aproximadamente 89% da variação dos dados.
-
-## Desvio padrão:
-
-- **MAE std:** 0.61
-- **RMSE std:** 0.66
-- **R² std:** 0.02
+<img width="1654" height="951" alt="image" src="https://github.com/user-attachments/assets/0859cc86-fe01-4e02-a927-a9df0287e801" />
 
 Os baixos valores de desvio padrão indicam comportamento consistente entre diferentes execuções da validação cruzada.
 
