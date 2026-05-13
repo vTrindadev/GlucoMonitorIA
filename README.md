@@ -151,24 +151,7 @@ A arquitetura permite integração futura com:
 
 # 🔄 7. Pipeline ETL
 
-## Extração
-
-- Coleta de leituras glicêmicas
-- Registro de horários e eventos fisiológicos
-- Entrada manual de dados para monitoramento
-
-## Transformação
-
-- Limpeza de dados
-- Tratamento de inconsistências
-- Cálculo de variação glicêmica (`diff`)
-- Estruturação dos dados para aprendizado da RNA
-
-## Carga
-
-- Preparação dos dados para treinamento
-- Normalização das variáveis
-- Envio das entradas para inferência da IA
+<img width="3000" height="100" alt="mermaid-diagram (2)" src="https://github.com/user-attachments/assets/ef96b23d-3e78-47c1-a915-8f50cab07dee" />
 
 ---
 
