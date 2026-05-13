@@ -77,17 +77,19 @@ Dessa forma, torna-se necessária a utilização de soluções inteligentes capa
 
 ## Impacto
 
-O uso de um agente inteligente permite:
+A utilização de um agente inteligente no monitoramento glicêmico possibilita uma análise mais avançada e eficiente dos dados coletados, permitindo não apenas o acompanhamento em tempo real, mas também a interpretação inteligente do comportamento da glicose ao longo do tempo.
 
-- Detectar tendências glicêmicas
-- Gerar alertas automáticos
-- Interpretar padrões complexos
-- Melhorar o suporte à decisão
-- Simular aplicações reais de IA na saúde
+Com o uso de técnicas de Inteligência Artificial, o sistema é capaz de:
 
-O sistema transforma dados brutos em informações interpretáveis e explicáveis, aumentando a confiabilidade da análise.
+- Detectar tendências glicêmicas de forma automática;
+- Gerar alertas preventivos para situações de risco;
+- Interpretar padrões complexos e variações fisiológicas;
+- Auxiliar no suporte à tomada de decisão;
+- Simular aplicações reais de IA no contexto da Saúde 4.0.
 
-Além disso, a solução demonstra a viabilidade da integração entre Inteligência Artificial preditiva, sistemas especialistas e IA generativa em aplicações futuras de Saúde 4.0.
+Diferentemente de sistemas tradicionais, que apenas exibem valores numéricos, a solução proposta transforma dados brutos em informações interpretáveis, explicáveis e mais úteis para o usuário. Isso aumenta a confiabilidade das análises e contribui para um acompanhamento glicêmico mais seguro, inteligente e preventivo.
+
+Além disso, o projeto demonstra a viabilidade da integração entre diferentes tecnologias de Inteligência Artificial, combinando modelos preditivos, sistemas especialistas e IA generativa em uma única arquitetura. Essa integração representa um importante avanço para futuras aplicações na área da Saúde 4.0, especialmente em soluções voltadas ao monitoramento contínuo, automação inteligente e apoio clínico assistido por IA.
 
 ---
 
@@ -106,41 +108,8 @@ Além disso, a solução demonstra a viabilidade da integração entre Inteligê
 
 O **GlucoMonitorIA** utiliza uma arquitetura híbrida dividida em três camadas principais.
 
----
+<img width="502" height="597" alt="image" src="https://github.com/user-attachments/assets/24aed01d-0e61-4e7d-8948-af5835aac01a" />
 
-## 🔹 1. Módulo Preditivo — Rede Neural Artificial (RNA)
-
-O sistema utiliza uma **Rede Neural Artificial do tipo MLPRegressor** para prever a próxima glicose do usuário com base em dados históricos.
-
-A RNA aprende padrões glicêmicos e tendências temporais, permitindo antecipar possíveis alterações futuras.
-
----
-
-## 🔹 2. Módulo de Controle — Sistema Especialista
-
-Após a previsão da RNA, um Sistema Especialista baseado em regras determinísticas realiza a classificação do risco glicêmico.
-
-### Exemplos:
-
-- Glicose abaixo de 70 mg/dL → Hipoglicemia
-- Glicose acima de 180 mg/dL → Hiperglicemia
-
-Essa camada garante confiabilidade técnica e rastreabilidade das decisões.
-
----
-
-## 🔹 3. Camada Interpretativa — Gemini API
-
-A API do Gemini atua como camada interpretativa.
-
-### Funções da IA Generativa:
-
-- Explicar os resultados
-- Traduzir informações técnicas
-- Gerar feedback humanizado
-- Auxiliar na interpretação dos dados
-
-> A IA Generativa atua exclusivamente como camada interpretativa e explicativa, não interferindo na lógica determinística do Sistema Especialista.
 
 ---
 
