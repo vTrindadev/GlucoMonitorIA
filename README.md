@@ -17,12 +17,12 @@
 
 ## 👨‍💻 Integrantes
 
-| Nome | RA |
-|---|---|
-| Felipe Silva Bertani | 062230043 |
-| Maycon Alves | 062220038 |
-| Rafael Cirelli | 062220022 |
-| Victor César Trindade Pereira | 062220012 |
+| Nome | RA | LinkedIn
+|---|---|---|
+| Felipe Silva Bertani | 062230043 | xxx |
+| Maycon Alves | 062220038 | xxx |
+| Rafael Cirelli | 062220022 | xxx |
+| Victor César Trindade Pereira | 062220012 | xxx |
 
 ---
 
