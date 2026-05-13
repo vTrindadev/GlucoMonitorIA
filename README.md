@@ -108,7 +108,7 @@ Além disso, o projeto demonstra a viabilidade da integração entre diferentes 
 
 O **GlucoMonitorIA** utiliza uma arquitetura híbrida dividida em três camadas principais.
 
-<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/1feda719-248f-4221-84a0-bcb5c106662e" />
+<img width="530" height="1000" alt="image" src="https://github.com/user-attachments/assets/1feda719-248f-4221-84a0-bcb5c106662e" />
 
 
 ---
