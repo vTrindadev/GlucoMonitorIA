@@ -253,7 +253,7 @@ Dessa forma, o modelo pode ser considerado robusto e adequado para prever tendê
 ## 1. Clone o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/vTrindadev/GlucoMonitorIA
 ```
 
 ## 2. Acesse a pasta do projeto
