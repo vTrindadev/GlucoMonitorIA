@@ -195,7 +195,7 @@ O gráfico abaixo demonstra a redução do erro da RNA durante o treinamento.
 
 ## 🤖 Pipeline Final Integrado
 
-<img width="1795" height="730" alt="image" src="https://github.com/user-attachments/assets/7c8515fa-301e-4d8a-9589-4a60cc43302e" />
+<img width="1431" height="723" alt="image" src="https://github.com/user-attachments/assets/26c11983-31af-421d-af3e-8e1ad74bfe29" />
 
 O pipeline executa automaticamente:
 
@@ -346,7 +346,7 @@ Todos os resultados e métricas foram analisados e validados tecnicamente pelo g
 
 # 📚 Instituição
 
-<img width="364" height="114" alt="logo_faculdade" src="https://github.com/user-attachments/assets/d18a3691-1b0f-4f8c-9970-0f7e5a877810" />
+Faculdade Engenheiro Salvador Arena
 Engenharia de Controle e Automação  
 Projeto de Inteligência Artificial — 2026
 
