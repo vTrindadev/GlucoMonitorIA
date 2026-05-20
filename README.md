@@ -346,7 +346,7 @@ Todos os resultados e métricas foram analisados e validados tecnicamente pelo g
 
 # 📚 Instituição
 
-Faculdade Engenheiro Salvador Arena  
+<img width="364" height="114" alt="logo_faculdade" src="https://github.com/user-attachments/assets/d18a3691-1b0f-4f8c-9970-0f7e5a877810" />
 Engenharia de Controle e Automação  
 Projeto de Inteligência Artificial — 2026
 
