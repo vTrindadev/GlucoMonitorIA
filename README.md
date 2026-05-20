@@ -221,16 +221,7 @@ Dessa forma, o modelo pode ser considerado robusto e adequado para prever tendê
 
 # 🛠️ 9. Tecnologias Utilizadas
 
-| Tecnologia | Função |
-|---|---|
-| Python | Linguagem principal |
-| Pandas | Manipulação de dados |
-| NumPy | Operações matemáticas |
-| Scikit-Learn | Machine Learning |
-| MLPRegressor | Rede Neural Artificial |
-| Google Gemini API | IA Generativa |
-| Matplotlib | Visualização de dados |
-| Google Colab | Ambiente de desenvolvimento |
+<img width="1536" height="864" alt="44c21f2f-601a-4ed0-979c-7611d2b18f46" src="https://github.com/user-attachments/assets/3b9e1a14-03d7-4cd6-bd11-fc1b3e389cd8" />
 
 ---
 
