@@ -28,7 +28,7 @@
 
 # 🎥 Demonstração do Projeto
 
-**[Assista ao Pitch e Demonstração da Solução](https://youtu.be/O3UhvLzB4JM?si=Ws_bcqc0UH3HcbHy)**
+**[Assista ao Pitch e Demonstração da Solução](https://www.youtube.com/watch?v=c8Ygm2HEDCQ)**
 
 ---
 
